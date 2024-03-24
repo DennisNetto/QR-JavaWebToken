@@ -1,1 +1,1 @@
-# Person2Person-JavaWebToken
+# QR-JavaWebToken
